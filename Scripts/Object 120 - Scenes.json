@@ -37485,8 +37485,8 @@
             {
               "Name": "1_JUDGE80",
               "MessageTextLines": [
-                "On ne commet pas un <SOUND:CLUE>parricide",
-                "sans raison valable..."
+                "On ne commet pas un <SOUND:CLUE>parricide sans",
+                "raison valable..."
               ],
               "Type": 0,
               "Position": 0
