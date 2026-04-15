@@ -1,8 +1,12 @@
 # Hero of Law Source Code
 
-Tested on WSL.
+This is version **1.10** of Hero of Law.
 
-To build a ROM:
+A version of the NPCMaker JSON file including the message data from v1.20 is also provided (`Scripts/Object 120 - Scenes_1.20.json`). While the game can be built and played with this, it hasn't been tested thoroughly, and may have incompatibilities with the v1.10 code in places.
+
+## Building
+
+Tested on WSL.
 
 1. Install the toolchain:
 * `cd ~`
