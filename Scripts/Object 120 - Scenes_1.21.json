@@ -106288,7 +106288,7 @@
           "Vec2s* movementVectors[3];",
           "",
           "#define DRAW_DEBUG npc->scriptVars[19]",
-          "#define TEXT_DRAW_X 28",
+          "#define TEXT_DRAW_X 20",
           "#define TEXT_DRAW_Y 40",
           "#define EXPLOSION_CHAR_GRAVITY -2",
           "",
