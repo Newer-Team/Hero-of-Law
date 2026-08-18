@@ -27,7 +27,7 @@ Tested on WSL.
 * `cd nOVL`
 * ``gcc -o novl -s -Os -DNOVL_DEBUG=1 -flto src/*.c `pkg-config --cflags --libs libelf glib-2.0` ``
 * `sudo cp novl /opt/n64/bin/`
-* `echo -e '\nexport PATH="/opt/n64/bin/:$PATH"' >> ~/.bashrc`
+* `echo -e '\nexport PATH="/opt/n64/bin:$PATH"' >> ~/.bashrc`
 2. Move to a folder outside of the WSL filesystem. Then, run `git clone https://github.com/Newer-Team/Hero-of-Law.git`
 3. Go into /Build and place `oot-1.0-dec.z64` there. This has to be a 1.0 US Zelda Ocarina of Time ROM, decompressed.
 4. Run `python3 prepare.py`
