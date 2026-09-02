@@ -2,7 +2,7 @@
 
 This is version **1.10** of Hero of Law.
 
-A version of the NPCMaker JSON file including the message data from v1.21 is also provided (`Scripts/Object 120 - Scenes_1.21.json`). While the game can be built and played with this, it hasn't been tested thoroughly, and may have incompatibilities with the v1.10 code in places.
+Versions of the NPCMaker JSON file including the message data from more recent game versions, up to v1.21, are also provided in the `Scripts` folder. While the game can be built and played with these, they haven't been tested thoroughly, and may have incompatibilities with the v1.10 code in places.
 
 ## Building
 
